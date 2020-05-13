@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AttendanceDrive</string>
+    <string name="view_attendance_report">View Attendance Report</string>
+    <string name="operating_systems">Operating Systems</string>
+    <string name="software_engineering">Software Engineering</string>
+    <string name="button">Button</string>
+    <string name="view_attendance_os">view attendance OS</string>
+    <string name="view_attendance_se">view attendance se</string>
+    <string name="view_attendence_reports">View attendence reports</string>
+    <string name="view_qr_code">View QR code</string>
+</resources>
